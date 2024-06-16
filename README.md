@@ -7,8 +7,6 @@ Create Angular components, using the Angular CLI, by right clicking in the VS Co
 
 Add components with or without a folder in a few easy clicks.
 
-![Quick Components](.\vscodequickcomponent-ezgif.com-optimize.gif)
-
 ## Requirements
 
 - Must be used within a Angular workspace

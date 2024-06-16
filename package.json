@@ -35,6 +35,13 @@
       ]
     }
   },
+  "files": [
+    "features/right-click-command/vscodequickcomponent-ezgif.com-optimize.gif"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Lazyindie/QuickComponents"
+  },
   "scripts": {
     "vscode:prepublish": "npm run package",
     "compile": "webpack",
