@@ -2,6 +2,7 @@
 
 Create Angular components, using the Angular CLI, by right clicking in the VS Code Explorer.
 
+![alt text](https://github.com/Lazyindie/QuickComponents/blob/main/right-click-add.gif?raw=true)
 
 ## Features
 
