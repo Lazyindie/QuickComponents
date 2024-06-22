@@ -1,13 +1,22 @@
 {
   "name": "quick-angular-components",
-  "displayName": "quick-components",
+  "displayName": "Quick Angular Components",
   "description": "Create components on a right click, simple and fast",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "publisher": "lazyindie",
+  "license": "MIT",
+  "pricing": "Free",
+  "keywords": [
+    "angular",
+    "components",
+    "cli",
+    "quick",
+    "context"
+  ],
   "engines": {
     "vscode": "^1.90.0"
   },
-  "icon": "./source/icon.jpeg",
+  "icon": "./images/icon.png",
   "categories": [
     "Other"
   ],
