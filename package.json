@@ -7,7 +7,7 @@
   "engines": {
     "vscode": "^1.90.0"
   },
-  "icon": "https://github.com/Lazyindie/QuickComponents/blob/32f8abd6f537dec676cc435f4287138a7efbd2ce/src/icon.jpg",
+  "icon": "./source/icon.jpeg",
   "categories": [
     "Other"
   ],
@@ -37,9 +37,6 @@
       ]
     }
   },
-  "files": [
-    "features/right-click-command/vscodequickcomponent-ezgif.com-optimize.gif"
-  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/Lazyindie/QuickComponents"
