@@ -1,11 +1,13 @@
 {
-  "name": "quick-components",
+  "name": "quick-angular-components",
   "displayName": "quick-components",
   "description": "Create components on a right click, simple and fast",
   "version": "0.0.1",
+  "publisher": "lazyindie",
   "engines": {
     "vscode": "^1.90.0"
   },
+  "icon": "",
   "categories": [
     "Other"
   ],
