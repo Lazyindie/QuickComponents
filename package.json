@@ -7,7 +7,7 @@
   "engines": {
     "vscode": "^1.90.0"
   },
-  "icon": "",
+  "icon": "https://github.com/Lazyindie/QuickComponents/blob/32f8abd6f537dec676cc435f4287138a7efbd2ce/src/icon.jpg",
   "categories": [
     "Other"
   ],
