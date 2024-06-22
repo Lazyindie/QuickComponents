@@ -2,7 +2,7 @@
   "name": "quick-angular-components",
   "displayName": "quick-components",
   "description": "Create components on a right click, simple and fast",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "lazyindie",
   "engines": {
     "vscode": "^1.90.0"
